@@ -1,0 +1,272 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L pspice:0 #GND01
+U 1 1 6209EEB6
+P 6900 3950
+F 0 "#GND01" H 6900 3850 50  0001 C CNN
+F 1 "0" H 6900 4039 50  0000 C CNN
+F 2 "" H 6900 3950 50  0001 C CNN
+F 3 "~" H 6900 3950 50  0001 C CNN
+	1    6900 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:CAP C1
+U 1 1 6209F2B7
+P 4500 2100
+F 0 "C1" V 4185 2100 50  0000 C CNN
+F 1 "12p" V 4276 2100 50  0000 C CNN
+F 2 "" H 4500 2100 50  0001 C CNN
+F 3 "~" H 4500 2100 50  0001 C CNN
+F 4 "C" H 4500 2100 50  0001 C CNN "Spice_Primitive"
+F 5 "12p" H 4500 2100 50  0001 C CNN "Spice_Model"
+F 6 "y" H 4500 2100 50  0001 C CNN "Spice_Netlist_Enabled"
+	1    4500 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L pspice:R R2
+U 1 1 6209FAB8
+P 4500 2550
+F 0 "R2" V 4295 2550 50  0000 C CNN
+F 1 "1.5Meg" V 4386 2550 50  0000 C CNN
+F 2 "" H 4500 2550 50  0001 C CNN
+F 3 "~" H 4500 2550 50  0001 C CNN
+F 4 "R" H 4500 2550 50  0001 C CNN "Spice_Primitive"
+F 5 "1.5Meg" H 4500 2550 50  0001 C CNN "Spice_Model"
+F 6 "Y" H 4500 2550 50  0001 C CNN "Spice_Netlist_Enabled"
+	1    4500 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L pspice:VSOURCE v1
+U 1 1 620A003F
+P 3200 3700
+F 0 "v1" H 3428 3746 50  0000 L CNN
+F 1 "dc 0 ac 240" H 3428 3655 50  0000 L CNN
+F 2 "" H 3200 3700 50  0001 C CNN
+F 3 "~" H 3200 3700 50  0001 C CNN
+	1    3200 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:R R4
+U 1 1 620A402B
+P 5800 3450
+F 0 "R4" H 5732 3404 50  0000 R CNN
+F 1 "1k" H 5732 3495 50  0000 R CNN
+F 2 "" H 5800 3450 50  0001 C CNN
+F 3 "~" H 5800 3450 50  0001 C CNN
+	1    5800 3450
+	-1   0    0    1   
+$EndComp
+$Comp
+L pspice:R R5
+U 1 1 620A46FA
+P 5800 3950
+F 0 "R5" H 5732 3904 50  0000 R CNN
+F 1 "1k" H 5732 3995 50  0000 R CNN
+F 2 "" H 5800 3950 50  0001 C CNN
+F 3 "~" H 5800 3950 50  0001 C CNN
+	1    5800 3950
+	-1   0    0    1   
+$EndComp
+$Comp
+L pspice:R R3
+U 1 1 620A4CCA
+P 5800 2800
+F 0 "R3" H 5732 2754 50  0000 R CNN
+F 1 "50k" H 5732 2845 50  0000 R CNN
+F 2 "" H 5800 2800 50  0001 C CNN
+F 3 "~" H 5800 2800 50  0001 C CNN
+	1    5800 2800
+	-1   0    0    1   
+$EndComp
+$Comp
+L pspice:R R6
+U 1 1 620A50C0
+P 5800 4650
+F 0 "R6" H 5732 4604 50  0000 R CNN
+F 1 "50k" H 5732 4695 50  0000 R CNN
+F 2 "" H 5800 4650 50  0001 C CNN
+F 3 "~" H 5800 4650 50  0001 C CNN
+	1    5800 4650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4750 2100 4750 2550
+Wire Wire Line
+	4850 4950 4850 5550
+Wire Wire Line
+	4850 4950 5800 4950
+Wire Wire Line
+	5800 4950 5800 4900
+Wire Wire Line
+	4750 2550 5800 2550
+Connection ~ 4750 2550
+Wire Wire Line
+	5800 3050 5800 3200
+Wire Wire Line
+	5800 4200 5800 4400
+Wire Wire Line
+	5800 3700 6450 3700
+Wire Wire Line
+	6900 3700 6900 3950
+Connection ~ 5800 3700
+$Comp
+L pspice:CAP C2
+U 1 1 620A96B0
+P 6450 3150
+F 0 "C2" H 6272 3104 50  0000 R CNN
+F 1 "700p" H 6272 3195 50  0000 R CNN
+F 2 "" H 6450 3150 50  0001 C CNN
+F 3 "~" H 6450 3150 50  0001 C CNN
+F 4 "C" H 6450 3150 50  0001 C CNN "Spice_Primitive"
+F 5 "700p" H 6450 3150 50  0001 C CNN "Spice_Model"
+F 6 "y" H 6450 3150 50  0001 C CNN "Spice_Netlist_Enabled"
+	1    6450 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L pspice:CAP C3
+U 1 1 620AA52B
+P 6450 4250
+F 0 "C3" H 6272 4204 50  0000 R CNN
+F 1 "700p" H 6272 4295 50  0000 R CNN
+F 2 "" H 6450 4250 50  0001 C CNN
+F 3 "~" H 6450 4250 50  0001 C CNN
+F 4 "C" H 6450 4250 50  0001 C CNN "Spice_Primitive"
+F 5 "700p" H 6450 4250 50  0001 C CNN "Spice_Model"
+F 6 "y" H 6450 4250 50  0001 C CNN "Spice_Netlist_Enabled"
+	1    6450 4250
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6450 4500 6450 4950
+Wire Wire Line
+	6450 4950 5800 4950
+Connection ~ 5800 4950
+Wire Wire Line
+	6450 4000 6450 3700
+Connection ~ 6450 3700
+Wire Wire Line
+	6450 3700 6900 3700
+Wire Wire Line
+	6450 3400 6450 3700
+Wire Wire Line
+	6450 2900 6450 2550
+Wire Wire Line
+	6450 2550 5800 2550
+Connection ~ 5800 2550
+Wire Wire Line
+	4250 2100 3200 2100
+Wire Wire Line
+	3200 2100 3200 2550
+Wire Wire Line
+	4000 2550 4250 2550
+Wire Wire Line
+	3500 2550 3200 2550
+Connection ~ 3200 2550
+Wire Wire Line
+	3200 2550 3200 3150
+Wire Wire Line
+	4350 5550 3200 5550
+Wire Wire Line
+	3200 4000 3200 4500
+Wire Wire Line
+	3850 4950 3200 4950
+Connection ~ 3200 4950
+Wire Wire Line
+	3200 4950 3200 5550
+Text GLabel 6800 2550 2    50   Output ~ 0
+V1
+Text GLabel 6800 4950 2    50   Output ~ 0
+V2
+Wire Wire Line
+	6800 4950 6450 4950
+Connection ~ 6450 4950
+Wire Wire Line
+	6800 2550 6450 2550
+Connection ~ 6450 2550
+Text GLabel 3000 4500 0    50   Input ~ 0
+In
+Wire Wire Line
+	3000 3150 3200 3150
+Connection ~ 3200 3150
+Wire Wire Line
+	3200 3150 3200 3400
+Text Notes 3500 4300 0    50   ~ 0
+.ac dec 10 1 100Meg
+$Comp
+L pspice:CAP C4
+U 1 1 620A2BDA
+P 4600 5550
+F 0 "C4" V 4285 5550 50  0000 C CNN
+F 1 "12p" V 4376 5550 50  0000 C CNN
+F 2 "" H 4600 5550 50  0001 C CNN
+F 3 "~" H 4600 5550 50  0001 C CNN
+F 4 "C" H 4600 5550 50  0001 C CNN "Spice_Primitive"
+F 5 "12p" H 4600 5550 50  0001 C CNN "Spice_Model"
+F 6 "y" H 4600 5550 50  0001 C CNN "Spice_Netlist_Enabled"
+	1    4600 5550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3000 4500 3200 4500
+Connection ~ 3200 4500
+Wire Wire Line
+	3200 4500 3200 4950
+$Comp
+L pspice:R R1
+U 1 1 620AB9AF
+P 3750 2550
+F 0 "R1" V 3545 2550 50  0000 C CNN
+F 1 "1.5Meg" V 3636 2550 50  0000 C CNN
+F 2 "" H 3750 2550 50  0001 C CNN
+F 3 "~" H 3750 2550 50  0001 C CNN
+	1    3750 2550
+	0    1    1    0   
+$EndComp
+Text GLabel 3000 3150 0    50   Input ~ 0
+In2
+$Comp
+L pspice:R R8
+U 1 1 6209A93E
+P 4600 4950
+F 0 "R8" V 4395 4950 50  0000 C CNN
+F 1 "1.5Meg" V 4486 4950 50  0000 C CNN
+F 2 "" H 4600 4950 50  0001 C CNN
+F 3 "~" H 4600 4950 50  0001 C CNN
+F 4 "R" H 4600 4950 50  0001 C CNN "Spice_Primitive"
+F 5 "1.5Meg" H 4600 4950 50  0001 C CNN "Spice_Model"
+F 6 "Y" H 4600 4950 50  0001 C CNN "Spice_Netlist_Enabled"
+	1    4600 4950
+	0    1    1    0   
+$EndComp
+Connection ~ 4850 4950
+$Comp
+L pspice:R R7
+U 1 1 6209AEE4
+P 4100 4950
+F 0 "R7" V 3895 4950 50  0000 C CNN
+F 1 "1.5Meg" V 3986 4950 50  0000 C CNN
+F 2 "" H 4100 4950 50  0001 C CNN
+F 3 "~" H 4100 4950 50  0001 C CNN
+	1    4100 4950
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC
