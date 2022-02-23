@@ -113,7 +113,7 @@ U 1 1 619514BE
 P 5300 1300
 F 0 "C2" H 5122 1254 50  0000 R CNN
 F 1 "220pF" H 5122 1345 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5300 1300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5300 1300 50  0001 C CNN
 F 3 "~" H 5300 1300 50  0001 C CNN
 F 4 "C" H 5300 1300 50  0001 C CNN "Spice_Primitive"
 F 5 "220p" H 5300 1300 50  0001 C CNN "Spice_Model"
@@ -1027,8 +1027,6 @@ Wire Wire Line
 Connection ~ 2750 950 
 Wire Wire Line
 	2750 950  3050 950 
-Text Notes 4250 1750 0    50   ~ 0
-this tvs needs switched out
 Wire Wire Line
 	1100 5600 1300 5600
 $Comp
@@ -1309,4 +1307,8 @@ Wire Wire Line
 Connection ~ 2400 6050
 Wire Wire Line
 	2400 6050 2400 6100
+Text Notes 4200 1800 0    50   ~ 0
+this tvs needs switched out: SMCJ9.0CA
+Text Notes 5450 1450 0    50   ~ 0
+Make C2 0806
 $EndSCHEMATC
