@@ -104,19 +104,8 @@ Wire Wire Line
 	7450 1450 7450 1550
 Wire Wire Line
 	6700 1200 6700 1550
-Text Notes 9300 6200 2    50   ~ 0
+Text Notes 10300 6400 2    50   ~ 0
 .ac dec 10 10 1000000
-$Comp
-L Transistor_BJT:2N2219 Q1
-U 1 1 620C8AE8
-P 4200 3800
-F 0 "Q1" H 4390 3846 50  0000 L CNN
-F 1 "2N2219" H 4390 3755 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-39-3" H 4400 3725 50  0001 L CIN
-F 3 "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF" H 4200 3800 50  0001 L CNN
-	1    4200 3800
-	1    0    0    -1  
-$EndComp
 $Comp
 L Device:R R7
 U 1 1 620CAAE4
@@ -266,10 +255,10 @@ Wire Wire Line
 	5600 3700 5600 3500
 Wire Wire Line
 	5200 3700 5200 3500
-Text GLabel 3700 3800 0    50   Input ~ 0
+Text GLabel 3500 3800 0    50   Input ~ 0
 CV6
 Wire Wire Line
-	3700 3800 3750 3800
+	3500 3800 3650 3800
 $Comp
 L Diode:1N4001 D2
 U 1 1 620FF5AC
@@ -506,17 +495,6 @@ Wire Wire Line
 Wire Wire Line
 	2150 3050 2150 2850
 $Comp
-L Transistor_BJT:2N2219 Q2
-U 1 1 622492C8
-P 6800 3800
-F 0 "Q2" H 6990 3846 50  0000 L CNN
-F 1 "2N2219" H 6990 3755 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-39-3" H 7000 3725 50  0001 L CIN
-F 3 "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF" H 6800 3800 50  0001 L CNN
-	1    6800 3800
-	1    0    0    -1  
-$EndComp
-$Comp
 L Relay:EC2-5NU K2
 U 1 1 622492CE
 P 7800 3200
@@ -549,7 +527,7 @@ Wire Wire Line
 Wire Wire Line
 	7800 3700 7800 3500
 Wire Wire Line
-	6300 3800 6350 3800
+	6150 3800 6300 3800
 $Comp
 L Diode:1N4001 D3
 U 1 1 622492E1
@@ -579,21 +557,18 @@ Wire Wire Line
 $Comp
 L power:GND #PWR012
 U 1 1 622492EF
-P 6900 4150
-F 0 "#PWR012" H 6900 3900 50  0001 C CNN
-F 1 "GND" H 6905 3977 50  0000 C CNN
-F 2 "" H 6900 4150 50  0001 C CNN
-F 3 "" H 6900 4150 50  0001 C CNN
-	1    6900 4150
+P 6900 4100
+F 0 "#PWR012" H 6900 3850 50  0001 C CNN
+F 1 "GND" H 6905 3927 50  0000 C CNN
+F 2 "" H 6900 4100 50  0001 C CNN
+F 3 "" H 6900 4100 50  0001 C CNN
+	1    6900 4100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	7400 3950 7400 4050
 Wire Wire Line
 	7400 4050 6900 4050
-Connection ~ 6900 4050
-Wire Wire Line
-	6900 4050 6900 4150
 Wire Wire Line
 	6900 3400 6900 3550
 Wire Wire Line
@@ -656,7 +631,7 @@ Wire Wire Line
 	7900 2700 7900 2900
 Wire Wire Line
 	7700 2700 7700 2900
-Text GLabel 6300 3800 0    50   Input ~ 0
+Text GLabel 6150 3800 0    50   Input ~ 0
 CV7
 Text GLabel 7700 2700 1    50   Input ~ 0
 BNCin+
@@ -1542,4 +1517,196 @@ F 3 "~" H 9750 3550 50  0001 C CNN
 	1    9750 3550
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:R R40
+U 1 1 62530B7C
+P 8000 5150
+F 0 "R40" V 8100 5300 50  0000 C CNN
+F 1 "5.1k" V 8100 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7930 5150 50  0001 C CNN
+F 3 "~" H 8000 5150 50  0001 C CNN
+	1    8000 5150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R41
+U 1 1 62542233
+P 8000 5250
+F 0 "R41" V 8100 5100 50  0000 C CNN
+F 1 "5.1k" V 8116 5250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7930 5250 50  0001 C CNN
+F 3 "~" H 8000 5250 50  0001 C CNN
+	1    8000 5250
+	0    1    1    0   
+$EndComp
+Text GLabel 7800 4550 0    50   Input ~ 0
+V+
+$Comp
+L Device:Fuse F1
+U 1 1 626099AA
+P 8100 4550
+F 0 "F1" V 7903 4550 50  0000 C CNN
+F 1 "2.5a Fuse" V 7994 4550 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" V 8030 4550 50  0001 C CNN
+F 3 "~" H 8100 4550 50  0001 C CNN
+	1    8100 4550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR014
+U 1 1 62690EAA
+P 7650 6250
+F 0 "#PWR014" H 7650 6000 50  0001 C CNN
+F 1 "GND" H 7655 6077 50  0000 C CNN
+F 2 "" H 7650 6250 50  0001 C CNN
+F 3 "" H 7650 6250 50  0001 C CNN
+	1    7650 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:2N3904 Q1
+U 1 1 626BD250
+P 4200 3800
+F 0 "Q1" H 4390 3846 50  0000 L CNN
+F 1 "2N3904" H 4390 3755 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 4400 3725 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 4200 3800 50  0001 L CNN
+	1    4200 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:2N3904 Q2
+U 1 1 626BEF9F
+P 6800 3800
+F 0 "Q2" H 6990 3846 50  0000 L CNN
+F 1 "2N3904" H 6990 3755 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 7000 3725 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 6800 3800 50  0001 L CNN
+	1    6800 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 00_kyuditsky_kicad:SMCJ5.0A D6
+U 1 1 625E9666
+P 8250 4750
+F 0 "D6" H 8950 4800 50  0000 C CNN
+F 1 "SMCJ5.0A" H 9000 4700 50  0000 C CNN
+F 2 "kyuditsky_kicad_fp:littlefuseTVS" H 8650 4900 50  0001 L BNN
+F 3 "https://componentsearchengine.com/Datasheets/2/SMCJ5.0A.pdf" H 8650 4800 50  0001 L BNN
+F 4 "ESD Suppressors / TVS Diodes 1.5kW 5V 5% Uni-Directional" H 8650 4700 50  0001 L BNN "Description"
+F 5 "2.62" H 8650 4600 50  0001 L BNN "Height"
+F 6 "576-SMCJ5.0A" H 8650 4500 50  0001 L BNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMCJ50A?qs=HR2RnyOI4E4RumofpgUEcw%3D%3D" H 8650 4400 50  0001 L BNN "Mouser Price/Stock"
+F 8 "LITTELFUSE" H 8650 4300 50  0001 L BNN "Manufacturer_Name"
+F 9 "SMCJ5.0A" H 8650 4200 50  0001 L BNN "Manufacturer_Part_Number"
+	1    8250 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L 00_kyuditsky_kicad:USB4085-GF-A_REVA4 J12
+U 1 1 625FD762
+P 8700 5550
+F 0 "J12" H 8930 5596 50  0000 L CNN
+F 1 "USB4085-GF-A_REVA4" H 8300 4750 50  0000 L CNN
+F 2 "GCT_USB4085-GF-A_REVA4" H 8700 5550 50  0001 L BNN
+F 3 "" H 8700 5550 50  0001 L BNN
+F 4 "A4" H 8700 5550 50  0001 L BNN "PARTREV"
+F 5 "3.46mm" H 8700 5550 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F 6 "Global Connector Technology" H 8700 5550 50  0001 L BNN "MANUFACTURER"
+F 7 "Manufacturer Recommendations" H 8700 5550 50  0001 L BNN "STANDARD"
+	1    8700 5550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 4100 6900 4050
+Connection ~ 6900 4050
+Wire Wire Line
+	8250 4550 8250 4750
+Wire Wire Line
+	8300 4950 8250 4950
+Wire Wire Line
+	8250 4950 8250 4750
+Connection ~ 8250 4750
+Wire Wire Line
+	7950 4550 7800 4550
+Wire Wire Line
+	7650 4750 7650 5150
+Wire Wire Line
+	7850 5150 7650 5150
+Connection ~ 7650 5150
+Wire Wire Line
+	7650 5150 7650 5250
+Wire Wire Line
+	7850 5250 7650 5250
+Connection ~ 7650 5250
+Wire Wire Line
+	7650 5250 7650 6150
+Wire Wire Line
+	8150 5150 8300 5150
+Wire Wire Line
+	8150 5250 8300 5250
+Wire Wire Line
+	8300 6150 7650 6150
+Connection ~ 7650 6150
+Wire Wire Line
+	7650 6150 7650 6250
+Wire Wire Line
+	8300 6050 8300 6150
+Connection ~ 8300 6150
+Wire Wire Line
+	8300 5350 8300 5450
+Connection ~ 8300 5450
+Wire Wire Line
+	8300 5450 8300 5550
+Connection ~ 8300 5550
+Wire Wire Line
+	8300 5550 8300 5650
+NoConn ~ 8300 5750
+NoConn ~ 8300 5850
+$Comp
+L Connector:Conn_01x03_Male J13
+U 1 1 627F2D97
+P 3300 4200
+F 0 "J13" H 3408 4481 50  0000 C CNN
+F 1 "Conn_01x03_Male" H 3300 4400 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 3300 4200 50  0001 C CNN
+F 3 "~" H 3300 4200 50  0001 C CNN
+	1    3300 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 4100 3650 4100
+Wire Wire Line
+	3650 4100 3650 3800
+Connection ~ 3650 3800
+Wire Wire Line
+	3650 3800 3750 3800
+NoConn ~ 3500 4300
+Text GLabel 3650 4200 2    50   Input ~ 0
+V+
+Wire Wire Line
+	3650 4200 3500 4200
+$Comp
+L Connector:Conn_01x03_Male J14
+U 1 1 62827F7F
+P 6050 4200
+F 0 "J14" H 6158 4481 50  0000 C CNN
+F 1 "Conn_01x03_Male" H 6050 4400 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6050 4200 50  0001 C CNN
+F 3 "~" H 6050 4200 50  0001 C CNN
+	1    6050 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 4100 6300 4100
+Wire Wire Line
+	6300 4100 6300 3800
+Connection ~ 6300 3800
+Wire Wire Line
+	6300 3800 6350 3800
+NoConn ~ 6250 4300
+Text GLabel 6400 4200 2    50   Input ~ 0
+V+
+Wire Wire Line
+	6400 4200 6250 4200
 $EndSCHEMATC
