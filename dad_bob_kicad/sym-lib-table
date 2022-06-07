@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "dad_bob-rescue")(type "Legacy")(uri "${KIPRJMOD}/dad_bob-rescue.lib")(options "")(descr ""))
+)
