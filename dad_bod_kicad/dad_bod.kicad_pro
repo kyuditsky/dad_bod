@@ -121,6 +121,8 @@
       },
       "track_widths": [
         0.0,
+        0.2,
+        0.3,
         0.5,
         1.0,
         1.5,
@@ -351,7 +353,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "dad_bob.kicad_pro",
+    "filename": "dad_bod.kicad_pro",
     "version": 1
   },
   "net_settings": {
