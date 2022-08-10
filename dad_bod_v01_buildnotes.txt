@@ -1,0 +1,17 @@
+
+dad_bod v01
+build notes 07/22/22
+
+center up headers
+
+route 3pin switches to reflect capacitor 
+	(jumper towards cap)
+
+center banana jacks
+	space them out put 2 mounting holes in between
+
+install pass thru header on bottom of board
+
+divider network can be closer each other
+
+put smd on underside
