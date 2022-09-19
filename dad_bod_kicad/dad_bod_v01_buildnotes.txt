@@ -2,7 +2,7 @@
 dad_bod v01
 build notes 07/22/22
 
-center up headers
+center up headers, they're the wrong gender
 
 route 3pin switches to reflect capacitor 
 	(jumper towards cap)
@@ -15,3 +15,11 @@ install pass thru header on bottom of board
 divider network can be closer each other
 
 put smd on underside
+
+change footprint of ltc6268 to 8 pin
+
+
+
+
+bandwidth requirement < 20MHz
+AC power, most transients of interest < 60kHz

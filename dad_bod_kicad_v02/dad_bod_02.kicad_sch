@@ -2929,6 +2929,10 @@
     (uuid fed5ea78-4496-492f-bca8-7ac11e33b747)
   )
 
+  (text "LDECF4330KA0N00\ndigikey 3.3uF 40Vac" (at 28.575 40.64 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 03f9370d-0e87-4ae8-b2be-34d2b9749d29)
+  )
   (text "Made C2 0805" (at 193.04 34.29 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1c9a2a54-e39d-4005-95c1-55703052973e)
@@ -2942,6 +2946,10 @@
     (at 241.3 157.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3896bd6b-042c-4988-bb07-eb705cced8a7)
+  )
+  (text "qty8__LDEDF4330KA0N00\n" (at 47.625 33.02 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 46b363b8-cd34-4258-8d73-67ddf88c0ea1)
   )
   (text "MOV:\n300V rms rating\n385VDC\n470V Varistor V (typ)\n1.2kA surge I\n30J"
     (at 241.3 129.54 0)
