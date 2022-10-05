@@ -23,3 +23,12 @@ change footprint of ltc6268 to 8 pin
 
 bandwidth requirement < 20MHz
 AC power, most transients of interest < 60kHz
+
+
+move all bypass power caps way closer to the IC power pins
+	c22 c28 c27 etc
+	c44-48
+
+db_standalone_v01 has 1k 1% resistors for R36, R18 (mouser shorted)
+
+add test points, in way of header strips
