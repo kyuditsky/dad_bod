@@ -32,3 +32,7 @@ move all bypass power caps way closer to the IC power pins
 db_standalone_v01 has 1k 1% resistors for R36, R18 (mouser shorted)
 
 add test points, in way of header strips
+
+
+power supply had mis-net near V- on op-amp w/ C49
+

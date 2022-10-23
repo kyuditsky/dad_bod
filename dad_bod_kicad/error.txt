@@ -1,0 +1,45 @@
+Library file '/Users/mac/Documents/KiCad/6.0/projects/dad_bod/dad_bod_kicad/dad_bob-rescue.lib' not found.	#fixed
+
+'''
+july rework:
+
+whole bunch of shit
+
+parts:
+	q1 q2 swapped for THT 2n3904
+	relay out of stock			#using old one
+	transformers (both) out of stock	#digikey's got pulse
+	master list bom = 	dad_bod_bom_v01
+		imported to mouser to get the specifics
+
+
+dad_bod: two in, ad out
+	div1 & plc
+	div 2 & bnc
+
+switched up inputs	first set! div2 & PLC		#not too bad
+			second div1 & bnc
+reversed the banana jacks, 				#fucked the input traces
+
+
+div1 inputs swapped at relay				#easy fix
+
+ditched the header switch at relay		#wont need it
+						#ad cv will cover it
+
+
+beach_bod:
+	div2 w/diff & plc in
+	2 bnc out
+		PLCout- & bnc in share sheild		#see if that matters
+		center switched with header switch
+	usbc 5v for rail splitter only at the diff converter
+
+
+orders quotes:
+
+jlcpcb: 24.34 shipped
+
+mouser: subtotal 89.84
+
+digikey: subtotal 7.44
