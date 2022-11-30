@@ -36,3 +36,8 @@ add test points, in way of header strips
 
 power supply had mis-net near V- on op-amp w/ C49
 
+
+
+beach_bod_01
+r23 r25 0603
+

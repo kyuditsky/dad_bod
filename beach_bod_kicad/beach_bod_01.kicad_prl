@@ -2,7 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -36,6 +36,7 @@
       8,
       9,
       10,
+      11,
       13,
       14,
       15,
@@ -60,11 +61,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdffff_ffffffff",
+    "visible_layers": "ffdfeff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "dad_bod.kicad_prl",
+    "filename": "beach_bod_01.kicad_prl",
     "version": 3
   },
   "project": {
