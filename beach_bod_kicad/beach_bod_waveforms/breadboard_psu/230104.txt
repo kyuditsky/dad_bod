@@ -1,0 +1,22 @@
+
+01/04/2023
+
+Beach_bod psu section testing on the breadboard
+
+An unknown coil is added in series on the positive rail.
+A spare smd PMV65XPVL mosfet is installed as per schematic.
+
+There are a decent number of 4" jumper wires still installed.
+
+
++5 Voltage input is being supplied via the Analog Discover 2's supply output
+
+The psu outputs are measured against the AD's supply output
+
+See 5Vin_negrail.png & 5Vin_posrail.png
+
+
+Spectrum analysis shows both rails having a spike, with an average of +10dBV around ~136kHz 
+using the exponential RMS Average over a wide range
+
+The rails are at 10dBV until experiencing a cutoff beginning at 500Hz, leveling off at 2kHz to -90dBV
