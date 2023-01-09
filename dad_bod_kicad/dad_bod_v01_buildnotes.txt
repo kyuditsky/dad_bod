@@ -41,3 +41,12 @@ power supply had mis-net near V- on op-amp w/ C49
 beach_bod_01
 r23 r25 0603
 
+
+first gain stage
+feedback R & C very close, minimum trace width
+amp outs wide and short (minimize capacitance over ground plane
+
+psu gets a greg plane underneath
+
+
+
