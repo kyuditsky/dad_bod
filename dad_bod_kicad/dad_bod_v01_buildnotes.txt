@@ -48,5 +48,5 @@ amp outs wide and short (minimize capacitance over ground plane
 
 psu gets a greg plane underneath
 
-
+two vias side by side (parallel) halves the inductance
 
