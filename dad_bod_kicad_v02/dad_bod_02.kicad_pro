@@ -353,7 +353,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "dad_bod.kicad_pro",
+    "filename": "dad_bod_02.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -434,10 +434,6 @@
     [
       "5ad8ac41-3419-4632-b15d-15c043474af8",
       ""
-    ],
-    [
-      "00000000-0000-0000-0000-0000624874cf",
-      "dad_bob_diff"
     ]
   ],
   "text_variables": {}

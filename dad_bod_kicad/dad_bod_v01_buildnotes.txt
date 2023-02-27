@@ -71,3 +71,6 @@ two sets of inputs
 2] banana jacks:	Divider network
 			BNC in
 
+send inputs to relays first [duh?]
+
+
