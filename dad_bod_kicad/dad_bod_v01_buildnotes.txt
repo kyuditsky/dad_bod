@@ -50,3 +50,24 @@ psu gets a greg plane underneath
 
 two vias side by side (parallel) halves the inductance
 
+
+
+****************************
+
+02-27-23 DADBOD
+will now be a focused break out board
+for the digilient analog discovery 2
+
+female header
+
+gets all its power from the dad2
+no usbc
+
+two sets of inputs
+
+1] banana jacks: 	Divider network
+			HPF PLC [Plucker]
+
+2] banana jacks:	Divider network
+			BNC in
+

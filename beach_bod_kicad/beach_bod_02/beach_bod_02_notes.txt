@@ -1,0 +1,70 @@
+
+feb 17 2023, no input caps
+lm7301 instead of 6268
+
+
+Sinewaves
+
+distortion increases as Vin & freq increase
+1MHz @ 1mVin
+50kHz @ 3Vin
+20k @ 4Vin
+
+freq higher than that, transforms into a triangle
+
+at 5Vin, the sine gets clipped close to the rails (4.85 vs 5.06) Peak2Peak
+
+
+Square waves increase slope as freq increases
+500Hz @ 1Vin
+
+10kHz @ 3Vin = 0.1ms
+
+rising/falling edge spikes increase as Vin decreases
+
+
+feb 18 23
+added capacitors c12-16
+from signal to gnd ref
+
+sine 5Vin
+less than 5kHz, clips at rails
+5kHz-2MHz maintains signal waveform
+noise increases dramatically as freq increases > 5kHz
+
+Square 5Vin
+
+waveform falls apart > 2kHz
+
+consistant fall/rise time: 60us
+cause of wave distortion at higher freq
+
+
+triangle 5Vin
+
+clips < 1kHz
+distorts waveform > 1kHz (rounds out)
+
+4Vin 
+doesnt clip
+distorts > 1kHz (same as 5Vin)
+
+
+RampUp 4Vin
+
+Inverts Signal
+~50us rise time @ 1kHz
+this has an affect of rounding out the peak
+rise time increases dramatically as freq increases
+
+no sawtooth > 2kHz
+
+***
+look at relationship of freq & RMS/peak2peak
+***
+
+
+
+
+
+
