@@ -1,0 +1,275 @@
+Info: Processing symbol 'C1:kyuditsky_kicad:ECQ-UBAF474K-3_side'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'U1:SL1002A600SP'.
+Info: Processing symbol 'T1:kyuditsky_kicad_fp:GT07110013'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'RV1:VP4032K122R300_kicad:CAPPM10080X500N'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C5:kyuditsky_kicad:EEE1AA220WR'.
+Info: Processing symbol 'C6:kyuditsky_kicad:EEE1AA220WR'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R24:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_Trimmer_Voltronics_JQ'.
+Info: Processing symbol 'R23:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R22:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_Trimmer_Voltronics_JQ'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R1:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'K2:Relay_THT:Relay_DPDT_Kemet_EC2'.
+Info: Processing symbol 'K1:Relay_THT:Relay_DPDT_Kemet_EC2'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'J10:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J9:Connector_PinSocket_2.54mm:PinSocket_2x15_P2.54mm_Vertical'.
+Info: Processing symbol 'J8:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J7:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J6:Connector_PinHeader_2.54mm:PinHeader_2x15_P2.54mm_Horizontal'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'J5:BNC5-J-P-GN-RA-BH2D_kicad:BNC5JPGNRABH2D'.
+Info: Processing symbol 'J4:kyuditsky_kicad_fp:Banana_Jack_S_RA_73099'.
+Info: Processing symbol 'J3:kyuditsky_kicad_fp:Banana_Jack_S_RA_73099'.
+Info: Processing symbol 'J2:kyuditsky_kicad_fp:Banana_Jack_S_RA_73099'.
+Info: Processing symbol 'J1:kyuditsky_kicad_fp:Banana_Jack_S_RA_73099'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'D5:Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp'.
+Info: Processing symbol 'C30:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp'.
+Info: Processing symbol 'D1:SMCJ5:DIONM7959X262N'.
+Info: Processing symbol 'C35:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C34:Capacitor_SMD:C_Trimmer_Voltronics_JQ'.
+Info: Processing symbol 'C31:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C33:Capacitor_SMD:C_Trimmer_Voltronics_JQ'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Reconnect C16 pin 2 from Net-(C12-Pad1) to GNDREF.
+Remove unused footprint J13.
+Change C33 footprint from 'Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder' to 'Capacitor_SMD:C_Trimmer_Voltronics_JQ'.
+Reconnect C30 pin 1 from Net-(C29-Pad1) to DIVout1-.
+Change C34 footprint from 'Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder' to 'Capacitor_SMD:C_Trimmer_Voltronics_JQ'.
+Reconnect C30 pin 2 from DIVout1+ to GNDREF.
+Remove unused footprint REF**.
+Update C30 properties.
+Reconnect D1 pin 2 from BNCin- to PLCout-.
+Update C30 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa0df to /77cbd43a-0cca-4a0d-a9c8-593a121c0224.
+Reconnect C29 pin 1 from Net-(C29-Pad1) to GNDREF.
+Update C29 properties.
+Update C29 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa0d9 to /dee198e9-d449-4914-bcba-10fbba5258e7.
+Reconnect C28 pin 1 from GNDREF to Net-(C26-Pad2).
+Remove unused footprint D8.
+Remove unused footprint REF**.
+Remove unused footprint F1.
+Remove unused footprint D6.
+Reconnect C28 pin 2 from VCC to DIVout1-.
+Remove unused footprint J12.
+Remove unused footprint R41.
+Remove unused footprint R40.
+Remove unused footprint C48.
+Update C28 properties.
+Remove unused footprint C47.
+Remove unused footprint C46.
+Remove unused footprint C45.
+Remove unused footprint C44.
+Update C28 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-00006252149f to /583f65cd-837d-4a42-a803-bbbee865539d.
+Remove unused footprint R29.
+Remove unused footprint U2.
+Remove unused footprint C38.
+Remove unused footprint U4.
+Change C28 value from ~ to 4pf.
+Remove unused footprint U3.
+Reconnect C27 pin 1 from VCC to DIVout1+.
+Reconnect C27 pin 2 from greg to Net-(C25-Pad1).
+Change J7 footprint from 'BNC5-J-P-GN-RA-BH2D_kicad:BNC5JPGNRABH2D' to 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Update C27 properties.
+Update C27 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000625222b8 to /8270ff4c-b93c-472f-a44c-a59e1cd49648.
+Change C27 value from ~ to 4pf.
+Reconnect C26 pin 1 from DIVout1+ to Net-(C24-Pad2).
+Reconnect K1 pin 8 from BNCin- to PLCout-.
+Reconnect C26 pin 2 from Net-(C25-Pad1) to Net-(C26-Pad2).
+Add net Net-(C26-Pad2).
+Update C26 properties.
+Update C26 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa0c3 to /cb182d69-9588-4e00-a3d5-74cea272e4ac.
+Change R1 footprint from 'Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder' to 'Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Reconnect C25 pin 2 from Net-(C24-Pad1) to Net-(C23-Pad1).
+Update C25 properties.
+Update C25 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa0c9 to /0dc901b0-cd8a-47ab-b2cd-f3555dad94a8.
+Reconnect C24 pin 1 from Net-(C24-Pad1) to Net-(C22-Pad2).
+Reconnect C24 pin 2 from Net-(C23-Pad1) to Net-(C24-Pad2).
+Add net Net-(C24-Pad2).
+Update C24 properties.
+Update C24 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa0cf to /39a5acdf-e24c-49c2-8f15-57d37eff688c.
+Reconnect C23 pin 2 from DIVin1+ to Net-(C23-Pad2).
+Add net Net-(R10-Pad1).
+Reconnect R10 pin 1 from Net-(C12-Pad1) to Net-(R10-Pad1).
+Add net Net-(C23-Pad2).
+Change R11 value from DNP to 1M.
+Update R11 symbol association from /00000000-0000-0000-0000-0000620f755f to /3d859bdd-ccb5-46e4-8acc-3ce5cf7675d4.
+Add net Net-(R11-Pad2).
+Reconnect R11 pin 2 from Net-(C12-Pad1) to Net-(R11-Pad2).
+Reconnect R11 pin 1 from GNDREF to DIVin1+.
+Update C23 properties.
+Add net Net-(R12-Pad2).
+Reconnect R12 pin 2 from Net-(C12-Pad1) to Net-(R12-Pad2).
+Update C23 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa142 to /782bb251-83e2-428d-88ef-7d763b55cc7a.
+Reconnect C22 pin 1 from GNDREF to DIVin1-.
+Reconnect C22 pin 2 from VCC to Net-(C22-Pad2).
+Add net Net-(C22-Pad2).
+Update C22 properties.
+Change R17 value from ~ to 1M.
+Update R17 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624ba3da to /73dd38e5-31fd-4c9f-802a-be81a74b0541.
+Update R17 properties.
+Reconnect R17 pin 2 from DIVout1+ to DIVin1-.
+Update C22 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-000062521c5f to /fad073f6-95fb-4632-be34-1253ec8cb2ca.
+Change R18 value from ~ to 1M.
+Update R18 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624c2037 to /aaa4f80a-3f8e-4c74-801e-dd6bed4b0b57.
+Update R18 properties.
+Add net Net-(R18-Pad2).
+Reconnect R18 pin 2 from Net-(C32-Pad1) to Net-(R18-Pad2).
+Reconnect R18 pin 1 from Net-(R18-Pad1) to Net-(R11-Pad2).
+Change C22 value from ~ to 4pf.
+Update R19 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa130 to /5b5d8258-41ff-4678-b520-c230d1fdff21.
+Update R19 properties.
+Reconnect R19 pin 2 from Net-(R19-Pad2) to Net-(R17-Pad1).
+Add net Net-(R19-Pad1).
+Reconnect R19 pin 1 from DIVin1+ to Net-(R19-Pad1).
+Reconnect C17 pin 1 from Net-(C12-Pad1) to GNDREF.
+Update R20 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa088 to /b00ebf29-cada-4e9e-b3c3-4202bc865c8b.
+Update R20 properties.
+Reconnect R20 pin 1 from Net-(R19-Pad2) to Net-(R18-Pad2).
+Remove unused footprint D7.
+Update R21 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa08e to /2a65f9c0-a970-40b1-b361-e919baa5abd6.
+Update R21 properties.
+Reconnect R21 pin 2 from Net-(R21-Pad2) to Net-(R19-Pad1).
+Add net Net-(R21-Pad1).
+Reconnect R21 pin 1 from Net-(R20-Pad2) to Net-(R21-Pad1).
+Reconnect C15 pin 2 from Net-(C12-Pad1) to GNDREF.
+Update R22 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa094 to /c50b4860-f1f4-4c27-83b6-553cbee504ef.
+Update R22 properties.
+Reconnect R22 pin 1 from Net-(R21-Pad2) to Net-(R20-Pad2).
+Reconnect C14 pin 2 from Net-(C12-Pad1) to GNDREF.
+Change R23 value from ~ to 1M.
+Update R23 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624bb44e to /8ab159ea-be7c-498e-8fae-3c71c4a93c60.
+Update R23 properties.
+Reconnect R23 pin 2 from Net-(C32-Pad2) to Net-(R21-Pad1).
+Reconnect R23 pin 1 from Net-(C32-Pad1) to DIVout1-.
+Reconnect C13 pin 1 from Net-(C12-Pad1) to GNDREF.
+Change R24 footprint from 'Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder' to 'Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Reconnect C12 pin 1 from Net-(C12-Pad1) to GNDREF.
+Change R25 value from DNP to 50k.
+Update R25 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624aa0a3 to /a6df7227-f3ba-4e46-bec8-58ab735146b1.
+Update R25 properties.
+Reconnect R25 pin 2 from Net-(C29-Pad1) to DIVout1+.
+Add net Net-(R24-Pad1).
+Reconnect R25 pin 1 from GNDREF to Net-(R24-Pad1).
+Remove unused footprint R39.
+Change R26 value from ~ to 50k.
+Update R26 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624c4a05 to /c6b704a1-3c5b-4e22-9455-8592ed67b23c.
+Update R26 properties.
+Add net Net-(R24-Pad3).
+Reconnect R26 pin 2 from Net-(C32-Pad2) to Net-(R24-Pad3).
+Reconnect R26 pin 1 from Net-(C43-Pad2) to DIVout1-.
+Remove unused footprint R38.
+Change R27 value from ~ to 30M.
+Update R27 symbol association from /00000000-0000-0000-0000-0000624874cf/00000000-0000-0000-0000-0000624f9c2e to /795f4caf-cce6-470a-b843-3d9d9055cd6e.
+Update R27 properties.
+Reconnect R27 pin 2 from Net-(C42-Pad1) to bnc_imp+.
+Reconnect R27 pin 1 from Net-(J11-Pad1) to BNCin-.
+Remove unused footprint R37.
+Reconnect C2 pin 1 from BNCin- to PLCout-.
+Reconnect T1 pin 4 from BNCin- to PLCout-.
+Add net PLCout-.
+Change U1 footprint from 'kyuditsky_kicad:SL1002A600SP' to 'SL1002A600SP'.
+Remove unused footprint C36.
+Remove unused footprint C37.
+Remove unused footprint C39.
+Remove unused footprint C40.
+Remove unused footprint C41.
+Remove unused footprint C42.
+Remove unused footprint C43.
+Remove unused footprint C49.
+Remove unused footprint C50.
+Remove unused footprint C51.
+Remove unused footprint C52.
+Remove unused footprint C53.
+Remove unused footprint C54.
+Remove unused footprint C55.
+Remove unused footprint C56.
+Remove unused footprint FB1.
+Remove unused footprint FB2.
+Remove unused footprint FB3.
+Remove unused footprint J11.
+Remove unused footprint Q3.
+Remove unused footprint R28.
+Remove unused footprint R30.
+Remove unused footprint R31.
+Remove unused footprint R32.
+Remove unused footprint R33.
+Remove unused footprint R34.
+Remove unused footprint R35.
+Remove unused footprint R36.
+Warning: No net found for symbol J3 pin 2.
+Warning: No net found for symbol J1 pin 2.
+Warning: No net found for symbol J1 pin 2.
+Warning: No net found for symbol J1 pin 2.
+Warning: No net found for symbol J4 pin 2.
+Warning: No net found for symbol J4 pin 2.
+Warning: No net found for symbol J4 pin 2.
+Warning: No net found for symbol J4 pin 2.
+Warning: No net found for symbol J3 pin 2.
+Warning: No net found for symbol J3 pin 2.
+Warning: No net found for symbol J3 pin 2.
+Warning: No net found for symbol J1 pin 2.
+Warning: No net found for symbol J2 pin 2.
+Warning: No net found for symbol J2 pin 2.
+Warning: No net found for symbol J2 pin 2.
+Warning: No net found for symbol J2 pin 2.
+Error: Cannot update C3 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder' not found).
+Error: Cannot update J5 (footprint 'BNC5-J-P-GN-RA-BH2D_kicad:BNC5JPGNRABH2D' not found).
+Error: Cannot update C7 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder' not found).
+Error: Cannot update C4 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder' not found).
+Error: Cannot update C35 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder' not found).
+Error: Cannot update C31 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder' not found).
+Error: Cannot update C32 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder' not found).
+
+
+Info: Total warnings: 0, errors: 7.

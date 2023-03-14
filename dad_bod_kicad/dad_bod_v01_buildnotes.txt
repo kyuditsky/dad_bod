@@ -72,5 +72,20 @@ two sets of inputs
 			BNC in
 
 send inputs to relays first [duh?]
+***
+not duh, makes more sense for the circuits to always get the signal on the front end
+instead of at the scope
+
+at least that makes sense to me, but maybe it's not an issue either way
+***
+
+
+the gndref for the divider networks might not even need to be there
+should do an experiment on the breadboard
+with the wavegen from the dad2
+
+build a simple divider,
+test with a middle gnd point to the dad2 gnd
+and without
 
 
