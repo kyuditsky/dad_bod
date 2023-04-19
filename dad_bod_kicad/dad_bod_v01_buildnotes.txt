@@ -89,3 +89,26 @@ test with a middle gnd point to the dad2 gnd
 and without
 
 
+
+beachbod_v02 divider network comparison
+
+testing sine waves @ 4V after dividers, no power to boards
+
+only gndref caps: 	heavy attenuation
+			peak amplitude 10-20kHz
+			almost nothing < 500 Hz (bottom limit)
+
+all caps:		generally double the V of gndref caps
+			no low frequency attenuation (no bottom limit)
+			attenuations begins at 5kHz
+			heavy attenuation at 20kHz (similar to gndref att. @ 1kHz)
+			only increases from there
+
+power to boards: (tho issue with cap board)
+
+gndref cap board attenuates at faster rate at higher frequency
+but they act the same up to 10kHz
+
+gndref 200kHz same as all caps 500kHz
+
+

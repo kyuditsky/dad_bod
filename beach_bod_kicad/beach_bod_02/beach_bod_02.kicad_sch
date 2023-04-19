@@ -3232,9 +3232,9 @@
     (pin "2" (uuid 0ea036d0-465a-4798-8f2d-0027d194b2e5))
     (pin "5" (uuid 55fd39f7-57b0-4cf1-8d67-306428f36ac4))
     (pin "6" (uuid fff9cfb6-0320-4540-b3ee-9dfb3dba8754))
+    (pin "1" (uuid a5a835fb-c64e-46f1-b0d4-dedd6b8ab77c))
     (pin "3" (uuid 0a37eea2-69dd-4bc8-a351-a9fda68ee73f))
     (pin "4" (uuid 4cda1d10-bd18-41dd-8070-6aa988b4386a))
-    (pin "1" (uuid a5a835fb-c64e-46f1-b0d4-dedd6b8ab77c))
   )
 
   (symbol (lib_id "Device:R") (at 93.98 76.835 180) (unit 1)
