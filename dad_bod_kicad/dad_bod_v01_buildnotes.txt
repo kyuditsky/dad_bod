@@ -112,3 +112,7 @@ but they act the same up to 10kHz
 gndref 200kHz same as all caps 500kHz
 
 
+analog discovery 2, drill holes @ 62mm
+board outline 75mm
+8.5mm chamfer
+

@@ -4979,6 +4979,21 @@
     (pin "5" (uuid c1d80217-a9f8-4037-bd69-89c88a7d29c1))
   )
 
+  (symbol (lib_id "Device:R") (at 172.72 135.255 90) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 53785079-5ff2-4b6c-962f-c7611bc21341)
+    (property "Reference" "R3" (id 0) (at 172.72 129.9972 90))
+    (property "Value" "1k" (id 1) (at 172.72 132.3086 90))
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 172.72 137.033 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 172.72 135.255 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b75625af-ef11-4966-88a6-ba076364cb36))
+    (pin "2" (uuid c37d301d-18c4-4544-bd0a-262efc43ce65))
+  )
+
   (symbol (lib_id "Device:C") (at 97.79 128.27 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 583f65cd-837d-4a42-a803-bbbee865539d)
@@ -5688,6 +5703,9 @@
     )
     (path "/00000000-0000-0000-0000-000062409ccb"
       (reference "R2") (unit 1) (value "30M") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/53785079-5ff2-4b6c-962f-c7611bc21341"
+      (reference "R3") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-0000622492d4"
       (reference "R4") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
